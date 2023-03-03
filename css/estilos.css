@@ -45,3 +45,82 @@
   padding: 20px;
   text-align: center;
 }
+
+.destacado-producto-titulo {
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  color: #3C2313;
+}
+
+.destacado-producto-tipo {
+  text-align: center;
+  color: #fff;
+  margin-top: 15px;
+}
+
+.img-encabezado{
+  background-image: url('../img/bowl-and-pet-daities-on-green-background\ 1.png');
+  width: 100%;
+  height: 400px;
+  background-size:contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+
+}
+
+.destacado-producto-tipo span {
+  padding: 5px;
+  background-color: #F0A83E;
+}
+
+.productos-destacados-titulo{
+  /*text-align: center;*/
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #3C2313;
+}
+.productos-destacados-links{
+  font-weight: 400;
+  font-size: 15x;
+  line-height: 18px;
+  color: #666;
+}
+
+.contenedor-productos{
+  background-color: #fbfaf6;
+}
+.producto-nombre{
+  color:#3C2313;
+  font-size: 15px;
+;
+
+}
+.producto-precio{
+  color: #F0A83E;
+  font-size: 15px;
+}
+.contenedor-footer{
+  background-color:#3C2313;
+}
+.footer-contacto-tipo{
+  color:#fff;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px 0 20px 0;
+}
+.footer-contacto-data{
+  color:#8A8787;
+  font: size 10px;
+  font-weight: 700;
+}
+.texto-logo-bottom{
+  color: #F0A83E;
+}
+.derechos-reservados{
+  background-color: #F0A83E;
+  color: #fff;
+  text-align: center;
+  margin-top: 15px;
+}
